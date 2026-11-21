@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="7YokKi - Bazen bana Berat da derler..." width="100%"/>
+<img src="header.svg" alt="7YokKi - Bazen bana Berat da derler..." width="100%"/>
 
-<img src="assets/marquee.svg" alt="C · ASM · Rust · Go · Java · Python · C++" width="100%"/>
+<img src="marquee.svg" alt="C · ASM · Rust · Go · Java · Python · C++" width="100%"/>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## 👋 Hakkımda
 
@@ -17,14 +17,14 @@ Merhaba, ben **Berat** (nickim **7YokKi**). İstanbul'dan, sistemin en alt katma
 - 🌐 **P2P** sunucu yazılımları ve Go / Java ile mod entegrasyonları geliştiriyorum
 - 🎵 Günlük hayatı kolaylaştıran araçlar yapıyorum: Python, C++
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## 🚀 Projelerim
 
 ### 🖥️ Öne çıkan: NP Kernel
 
 <div align="center">
-<img src="assets/boot.svg" alt="NP Kernel boot animasyonu" width="80%"/>
+<img src="boot.svg" alt="NP Kernel boot animasyonu" width="80%"/>
 </div>
 
 <br/>
@@ -32,16 +32,16 @@ Merhaba, ben **Berat** (nickim **7YokKi**). İstanbul'dan, sistemin en alt katma
 <div align="center">
 <table>
 <tr>
-<td><a href="https://github.com/7yokki/NP-Kernel-OSP"><img src="assets/card-np-kernel.svg" alt="NP-Kernel-OSP" width="420"/></a></td>
-<td><a href="https://github.com/7yokki/fallen"><img src="assets/card-fallen.svg" alt="fallen" width="420"/></a></td>
+<td><a href="https://github.com/7yokki/NP-Kernel-OSP"><img src="card-np-kernel.svg" alt="NP-Kernel-OSP" width="420"/></a></td>
+<td><a href="https://github.com/7yokki/fallen"><img src="card-fallen.svg" alt="fallen" width="420"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/7yokki/fallensharp"><img src="assets/card-fallensharp.svg" alt="fallensharp" width="420"/></a></td>
-<td><a href="https://github.com/7yokki/alterfy"><img src="assets/card-alterfy.svg" alt="alterfy" width="420"/></a></td>
+<td><a href="https://github.com/7yokki/fallensharp"><img src="card-fallensharp.svg" alt="fallensharp" width="420"/></a></td>
+<td><a href="https://github.com/7yokki/alterfy"><img src="card-alterfy.svg" alt="alterfy" width="420"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/7yokki/smsinecraft"><img src="assets/card-smsinecraft.svg" alt="smsinecraft" width="420"/></a></td>
-<td><a href="https://github.com/7yokki/gpimage"><img src="assets/card-gpimage.svg" alt="gpimage" width="420"/></a></td>
+<td><a href="https://github.com/7yokki/smsinecraft"><img src="card-smsinecraft.svg" alt="smsinecraft" width="420"/></a></td>
+<td><a href="https://github.com/7yokki/gpimage"><img src="card-gpimage.svg" alt="gpimage" width="420"/></a></td>
 </tr>
 </table>
 </div>
@@ -68,7 +68,7 @@ graph LR
 
 </details>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## 🛠️ Teknolojiler
 
@@ -78,7 +78,7 @@ graph LR
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## 📊 GitHub İstatistikleri
 
@@ -91,6 +91,6 @@ graph LR
 
 <div align="center">
 
-<img src="assets/footer.svg" alt="" width="100%"/>
+<img src="footer.svg" alt="" width="100%"/>
 
 </div>
